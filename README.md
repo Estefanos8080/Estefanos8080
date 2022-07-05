@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <h6> Languages </h6>
- - Python, C++, Java, Swift, Kotlin, JavaScript, SQL, Python, Shell Script.
+ - Python, C++, Java, Swift, Kotlin, JavaScript, SQL, Shell Script.
 
 
 ### Stats
