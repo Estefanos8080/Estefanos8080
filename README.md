@@ -11,10 +11,10 @@
  - Python, C++, Java, Swift, Kotlin, JavaScript, SQL, Shell Script.
 
 
-### Stats
+<!-- ### Stats -->
 
-![Estefano's status](https://github-readme-stats.vercel.app/api?username=Estefanos8080&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark) 
-![Estefano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefanos8080&layout=compact&hide=php&hide_border=true&theme=dark)
+<!-- ![Estefano's status](https://github-readme-stats.vercel.app/api?username=Estefanos8080&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark) 
+![Estefano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefanos8080&layout=compact&hide=php&hide_border=true&theme=dark) -->
 
  
 ### Reach me
