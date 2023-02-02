@@ -1,5 +1,5 @@
 ## Hi there 👋🏾 , I'm Estefanos Kebebew!
-#### Aspiring Software Engineer recently graduated from City College of San Francisco with a major in Computer Science and transferred to San Francisco State in the fall of 2021. I have strong interest in Android/IOS and web app development.
+#### Aspiring Software Engineer recently graduated from City College of San Francisco with a major in Computer Science and transferred to San Francisco State in the fall of 2021. I have strong interest in Android/IOS and web app development. I am also interested about AI and utilizing ML in the medical field. With hands-on experience in TensorFlow, Keras, and PyTorch, I have a strong understanding of AI tools and technologies. I am consistently seeking opportunities to expand my knowledge of the latest developments in the field.
 
 
 - 📫 How to reach me: lenargs@mail.com
