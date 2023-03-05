@@ -9,6 +9,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <h6> Languages </h6>
  - Python, C++, Java, Swift, Kotlin, JavaScript, SQL, Shell Script.
+ 
+ [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Estefanos8080.Estefanos8080)](https://github.com/Estefanos8080/Estefanos8080)
 
 
 <!-- ### Stats -->
