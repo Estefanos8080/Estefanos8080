@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238B4513&lines=Hi+there+👋🏾%2C+I+am+Estefanos)](https://git.io/typing-svg)
-#### Aspiring Software Engineer recently graduated from City College of San Francisco with a major in Computer Science and transferred to San Francisco State in the fall of 2021. I have strong interest in Android/IOS and web app development. I am also interested about AI and utilizing ML in the medical field. With hands-on experience in TensorFlow, Keras, and PyTorch, I have a strong understanding of AI tools and technologies. I am consistently seeking opportunities to expand my knowledge of the latest developments in the field.
+#### I'm a recent graduate from City College of San Francisco with a degree in Computer Science, and I'm now studying at San Francisco State with a strong interest in Android/IOS and web app development.Apart from that,I'm also interested in AI and its potential applications in the medical field. I've had the chance to work with some AI tools and technologies like TensorFlow, Keras, and PyTorch,which has provided me with a strong foundation in the basics.I'm always eager to learn more! I'm constantly looking for opportunities to expand my knowledge and stay up-to-date with the latest developments in the field.
 
 
 - 📫 How to reach me: lenargs@mail.com
