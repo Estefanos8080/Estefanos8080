@@ -12,8 +12,8 @@ I'm always eager to learn more! I'm constantly looking for opportunities to expa
 <h6> Languages </h6>
  - Python, C++, Java, Swift, Kotlin, JavaScript, SQL, Shell Script.
  
- ### Visitor counter
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Estefanos8080.Estefanos8080)](https://github.com/Estefanos8080/Estefanos8080)
+<!--  ### Visitor counter
+ [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Estefanos8080.Estefanos8080)](https://github.com/Estefanos8080/Estefanos8080) -->
 
 
 <!-- ### Stats -->
