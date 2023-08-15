@@ -3,12 +3,10 @@
 
 I'm a passionate individual with a strong educational background in Computer Science. I'm excited to share my journey with you.
 
-- 🎓 I completed my Associate's degree in Computer Science from City College of San Francisco (CCSF).
-- 🎓 I also obtained my Bachelor's degree in Computer Science from San Francisco State University (SFSU).
+- 🎓 I completed my Associate's degree in Computer Science from City College of San Francisco.
+- 🎓 I also obtained my Bachelor's degree in Computer Science from San Francisco State University.
 
- My focus and passion revolve around Android/iOS and web app development. I like creating innovative and user-friendly applications that make a positive impact.But that's not all! I'm also captivated by the possibilities of Artificial Intelligence in the medical field. Throughout my academic journey, I've had the privilege to work with cutting-edge AI tools and technologies, including TensorFlow, Keras, and PyTorch. These experiences have given me a solid foundation in AI fundamentals and deep learning techniques. To add to my repertoire, I hold a certificate in Data Science and Machine Learning for Biotechnology (gstar). This certificate has expanded my expertise in applying AI to the field of biotechnology. 
- 
- I'm constantly looking for opportunities to expand my knowledge and always eager to learn more! 
+I like creating innovative and user-friendly applications that make a positive impact.But that's not all! I'm also captivated by the possibilities of Artificial Intelligence in the medical field. Throughout my academic journey, I've had the privilege to work with cutting-edge AI tools and technologies, including TensorFlow, Keras, and PyTorch. These experiences have given me a solid foundation in AI fundamentals and deep learning techniques. To add to my repertoire, I hold a certificate in Data Science and Machine Learning for Biotechnology (gstar).
 
 - 📫 How to reach me: lenargs@mail.com
 - ⚡ Favorite book: 2084: Artificial Intelligence, the Future of Humanity, and the God Question  By: John C. Lennox
