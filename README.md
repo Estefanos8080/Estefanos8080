@@ -6,7 +6,7 @@ I'm a passionate individual with a strong educational background in Computer Sci
 - 🎓 I completed my Associate's degree in Computer Science from City College of San Francisco.
 - 🎓 I also obtained my Bachelor's degree in Computer Science from San Francisco State University.
 
-I like creating innovative and user-friendly applications that make a positive impact.But that's not all! I'm also captivated by the possibilities of Artificial Intelligence in the medical field. Throughout my academic journey, I've had the privilege to work with cutting-edge AI tools and technologies, including TensorFlow, Keras, and PyTorch. These experiences have given me a solid foundation in AI fundamentals and deep learning techniques. To add to my repertoire, I hold a certificate in Data Science and Machine Learning for Biotechnology (gstar).
+Throughout my academic journey, I've had the privilege to work with cutting-edge AI tools and technologies, including TensorFlow, Keras, and PyTorch. These experiences have given me a solid foundation in AI fundamentals and deep learning techniques. To add to my repertoire, I hold a certificate in Data Science and Machine Learning for Biotechnology (gstar).
 
 - 📫 How to reach me: lenargs@mail.com
 - ⚡ Favorite book: 2084: Artificial Intelligence, the Future of Humanity, and the God Question  By: John C. Lennox
