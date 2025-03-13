@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238B4513&lines=Hi+there+,+I+am+Estefanos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238B4513&lines=Hi+there+,+I+am+Estefanos)](https://github.com/Estefanos8080)
 
 I'm a passionate individual with a strong educational background in Computer Science. I'm excited to share my journey with you.
 
