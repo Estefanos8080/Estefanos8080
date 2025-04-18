@@ -1,33 +1,63 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Estefanos;ML+%26+Genomics+Enthusiast;Full-Stack+Developer;Algorithm+Designer;Data+Science+Practitioner)](https://github.com/Estefanos8080)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238B4513&lines=Hi+there+,+I+am+Estefanos)](https://github.com/Estefanos8080)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Estefanos8080&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
-I'm a passionate individual with a strong educational background in Computer Science. I'm excited to share my journey with you.
+---
 
-- 🎓 I completed my Associate's degree in Computer Science from City College of San Francisco.
-- 🎓 I also obtained my Bachelor's degree in Computer Science from San Francisco State University.
+### 🔬 About Me
 
-Throughout my academic journey, I've had the privilege to work with cutting-edge AI tools and technologies, including TensorFlow, Keras, and PyTorch. These experiences have given me a solid foundation in AI fundamentals and deep learning techniques. To add to my repertoire, I hold a certificate in Data Science and Machine Learning for Biotechnology (gstar).
+- 🧬 Merging **Computer Science** with **Genomics** through MS in Biology
+- 🚀 Passionate about **core software development** and **ML/DL applications** in understading data
 
-- 📫 How to reach me: lenargs@mail.com
-- ⚡ Favorite book: 2084: Artificial Intelligence, the Future of Humanity, and the God Question  By: John C. Lennox
+---
 
+### 🎓 Education
 
-<h3 align="left">Languages and Tools:</h3>
-<h6> Languages </h6>
- - Python, C++, Java, Swift, Kotlin, JavaScript, SQL, Shell Script.
- 
-<!--  ### Visitor counter
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Estefanos8080.Estefanos8080)](https://github.com/Estefanos8080/Estefanos8080) -->
+- **Associate's in Computer Science** - City College of San Francisco 🎓
+- **Bachelor's in Computer Science** - San Francisco State University 🎓
+- **MS in Biology** (Ongoing) 🧪
+- **Certified** in Data Science & ML for Biotechnology (gSTAR) 📜
 
+---
 
-<!-- ### Stats -->
+### 🛠️ Tech Stack
 
-<!-- ![Estefano's status](https://github-readme-stats.vercel.app/api?username=Estefanos8080&count_private=true&hide_border=true&show_icons=true&hide_title=true&theme=dark) 
-![Estefano's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefanos8080&layout=compact&hide=php&hide_border=true&theme=dark)
- -->
- 
-### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Estefanos8080) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/estefanos-kebebew1122b41b5/)  
+#### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
- 
+#### **ML/DL Frameworks**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 
+#### **Tools & Technologies**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estefanos8080&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estefanos8080&layout=compact&theme=dark&hide_border=true&hide=php"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Estefanos8080&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefanos-kebebew1122b41b5/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Estefanos8080)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:estefanosswe@gmail.com)
+
+---
+
+⭐ From [Estefanos8080](https://github.com/Estefanos8080)
