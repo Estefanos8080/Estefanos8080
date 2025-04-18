@@ -14,11 +14,10 @@
 ---
 
 ### 🎓 Education
-
-- **Associate's in Computer Science** - City College of San Francisco 🎓
-- **Bachelor's in Computer Science** - San Francisco State University 🎓
 - **MS in Biology** (Ongoing) 🧪
+- **Bachelor's in Computer Science** - San Francisco State University 🎓
 - **Certified** in Data Science & ML for Biotechnology (gSTAR) 📜
+- **Associate's in Computer Science** - City College of San Francisco 🎓
 
 ---
 
