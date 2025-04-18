@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Estefanos;ML+%26+Genomics+Enthusiast;Full-Stack+Developer;Algorithm+Designer;Data+Science+Practitioner)](https://github.com/Estefanos8080)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Estefanos+🧬💻;Core+Software+Engineer+×+Bioinformatics+Researcher)](https://github.com/Estefanos8080)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Estefanos8080&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
@@ -7,14 +8,16 @@
 ---
 
 ### 🔬 About Me
-
-- 🧬 Merging **Computer Science** with **Genomics** through MS in Biology
-- 🚀 Passionate about **core software development** and **ML/DL applications** in understading data
+I'm a passionate developer/researcher bridging computer science and biology. Interested areas:
+- Core software engineering
+- Machine learning applications in Genomic data
+- Full-stack development
+- High-performance bioinformatics pipelines
 
 ---
 
 ### 🎓 Education
-- **MS in Biology** (Ongoing) 🧪
+- **Master's of Science in Biology** (Ongoing) 🧪
 - **Bachelor's in Computer Science** - San Francisco State University 🎓
 - **Certified** in Data Science & ML for Biotechnology (gSTAR) 📜
 - **Associate's in Computer Science** - City College of San Francisco 🎓
@@ -33,6 +36,12 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+
+### 🧬 Bioinformatics
+![Biopython](https://img.shields.io/badge/Biopython-38761D)
+![SAMtools](https://img.shields.io/badge/-SAMtools-2E5B82)
+![BCFtools](https://img.shields.io/badge/-BCFtools-5699D1)
+![PLINK](https://img.shields.io/badge/PLINK-1D2B64)
 
 #### **Tools & Technologies**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
