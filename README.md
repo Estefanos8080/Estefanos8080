@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+Hi,+I'm+Estefanos;Core+Software+Engineer+🔧+×+Genomic+Algorithms+🧬)](https://github.com/Estefanos8080)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3E3&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Estefanos;Core+Software+Engineer+🔧+×+Genomic+Algorithms+🧬)](https://github.com/Estefanos8080)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Estefanos8080&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
