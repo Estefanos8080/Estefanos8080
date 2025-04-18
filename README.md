@@ -7,10 +7,11 @@
 ---
 
 ### 🔬 About Me
-I'm a passionate developer/researcher bridging computer science and biology. Interested areas:
-- Core software engineering
+I'm a passionate developer/researcher bridging computer science and biology. 
+
+🔭 **Current Focus**:
 - Machine learning applications in Genomic data
-- Full-stack development
+- Core software engineering and Full-stack development
 - High-performance bioinformatics pipelines
 
 ---
