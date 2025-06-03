@@ -17,7 +17,7 @@ I'm a passionate developer/researcher bridging computer science and biology.
 ---
 
 ### 🎓 Education
-- **Master's of Science in Biology** (Ongoing) 🧪
+- **Master's of Science in Biology** - San Francisco State University 🎓
 - **Bachelor's in Computer Science** - San Francisco State University 🎓
 - **Certified** in Data Science & ML for Biotechnology (gSTAR) 📜
 - **Associate's in Computer Science** - City College of San Francisco 🎓
