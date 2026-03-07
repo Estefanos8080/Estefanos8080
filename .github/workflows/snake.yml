@@ -1,3 +1,4 @@
+# GitHub Snake Workflow
 name: Generate Snake
 
 on:
