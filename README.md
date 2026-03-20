@@ -72,4 +72,4 @@ I'm a passionate developer/researcher bridging computer science and biology.
 
 ---
 
-⭐ From [Estefanos8080](https://github.com/Estefanos8080)
+⭐ From [Estefanos](https://github.com/Estefanos8080)
